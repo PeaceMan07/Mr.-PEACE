@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ThomasSigma07
+- 👋 Hi, I’m @ERROR07
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on games
-- 📫 How to reach me (ThomasSigma07)
+- 📫 How to reach me (ERROR07)
 
 <!---
 ThomasSigma07/ThomasSigma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
