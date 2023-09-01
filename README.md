@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on games
-- 📫 How to reach me [...](https://github.com/ThomasSigma07/ThomasSigma07)
+- 📫 How to reach me (ThomasSigma07)
 
 <!---
 ThomasSigma07/ThomasSigma07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
